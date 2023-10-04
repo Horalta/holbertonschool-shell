@@ -1,1 +1,3 @@
-IDK what is it, but its here
+This repository contain some scripts about Shell commands usages
+
+
