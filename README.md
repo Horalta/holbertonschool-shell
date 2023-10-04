@@ -1,1 +1,1 @@
-s repository contain some scripts about Shell commands usages
+This repository contain some scripts about Shell commands usages
