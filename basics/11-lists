@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alnUlt ./ ../ /boot
+ls -alnUn ./ ../ /boot
