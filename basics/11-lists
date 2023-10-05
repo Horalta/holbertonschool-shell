@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lhnU ./ ../ /boot
+ls -alnU ./ ../ /boot
